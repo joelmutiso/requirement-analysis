@@ -79,7 +79,7 @@ A Use Case Diagram is a visual modeling tool used in Requirement Analysis. It il
 
 **[USER ACTION]:** You must create the diagram described below using a tool like `Draw.io` or `Lucidchart`. Export the diagram as `alx-booking-uc.png`, add it to your repository, and ensure the image link below works.
 
-alx-booking-uc.png
+![Use Case Diagram for ALX Booking System](alx-booking-uc.png)
 
 **Guide for your diagram:**
 
